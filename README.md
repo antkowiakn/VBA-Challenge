@@ -1,5 +1,5 @@
 # VBA-Challenge
-VBA-Challenge
+
 For this challenge I created a script that looped through all of the stocks for the years 2014-2016.
 I created a summary table to the right of all of the raw data that has the following information.
 A tiker symbol for each stock. 
